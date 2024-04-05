@@ -1,0 +1,16 @@
+javascript
+. synchronous - ek ke baad ek code execute hoga
+. single threaded - execute on single threaded
+
+Execution Context
+. execute one line of code at a time - 
+a. console log 1
+b. console log 2
+
+each operation waits for the last one to complete before executing 
+
+#Blocking Code - block the flow of program 
+#Non Blocking Code - doesnot block execution 
+both has its pros n cons
+
+
